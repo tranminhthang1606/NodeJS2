@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_practice",
+  "version": "1.0.0",
+  "description": "config from begin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranminhthang1606/NodeJS2.git"
+  },
+  "keywords": [
+    "nodejs_practice"
+  ],
+  "author": "minhthangtran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranminhthang1606/NodeJS2/issues"
+  },
+  "homepage": "https://github.com/tranminhthang1606/NodeJS2#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
